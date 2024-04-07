@@ -15,7 +15,7 @@ gem "minima", "~> 2.5"
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  # gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.12"
   gem "jekyll-tabs"
 end
 
@@ -34,3 +34,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "just-the-docs"
+
+# gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
