@@ -46,8 +46,8 @@ By following these steps, you’ll be able to connect to your Raspberry Pi headl
         Show image
     </summary>
     {: .text-delta }
-    ![select pi](/assets/img/dev1.png)
-    ![select pi2](/assets/img/dev2.png)
+    ![select pi](assets/img/dev1.png)
+    ![select pi2](assets/img/dev2.png)
     {: .text-delta }
     </details>
  
@@ -58,7 +58,7 @@ By following these steps, you’ll be able to connect to your Raspberry Pi headl
         Show image
     </summary>
     {: .text-delta }
-    ![select os](/assets/img/other_os.png)
+    ![select os](assets/img/other_os.png)
     {: .text-delta }
     </details>
 
@@ -72,7 +72,7 @@ By following these steps, you’ll be able to connect to your Raspberry Pi headl
         Show image
     </summary>
     {: .text-delta }
-    ![storage](/assets/img/choose_storage.png)
+    ![storage](assets/img/choose_storage.png)
     {: .text-delta }
     </details>
 
@@ -89,7 +89,7 @@ By following these steps, you’ll be able to connect to your Raspberry Pi headl
         Show image
     </summary>
     {: .text-delta }
-    ![prompts](/assets/img/edit_settings.png)
+    ![prompts](assets/img/edit_settings.png)
     {: .text-delta }
     </details>
 
@@ -100,7 +100,7 @@ By following these steps, you’ll be able to connect to your Raspberry Pi headl
         Show image
     </summary>
     {: .text-delta }
-    ![general](/assets/img/gen_settings.png)
+    ![general](assets/img/gen_settings.png)
     {: .text-delta }
     </details>
 
@@ -115,7 +115,7 @@ By following these steps, you’ll be able to connect to your Raspberry Pi headl
         Show image
     </summary>
     {: .text-delta }
-    ![enable ssh](/assets/img/enable_ssh.png)
+    ![enable ssh](assets/img/enable_ssh.png)
     {: .text-delta }
     </details>
 
@@ -126,7 +126,7 @@ By following these steps, you’ll be able to connect to your Raspberry Pi headl
         Show image
     </summary>
     {: .text-delta }
-    ![apply customizations](/assets/img/apply_customization.png)
+    ![apply customizations](assets/img/apply_customization.png)
     {: .text-delta }
     </details>
 
@@ -144,7 +144,7 @@ By following these steps, you’ll be able to connect to your Raspberry Pi headl
 >        Show image
 >    </summary>
 >    {: .text-delta }
->    ![nmap setup](/assets/img/nmap_setup.png)
+>    ![nmap setup](assets/img/nmap_setup.png)
 >    {: .text-delta }
 >    </details>
 
@@ -235,7 +235,7 @@ Open the Terminal and use SSH to connect to your Raspberry Pi. (Replace `<Raspbe
         Show image
     </summary>
     {: .text-delta }
-    ![successful login](/assets/img/login.png)
+    ![successful login](assets/img/login.png)
     {: .text-delta }
     </details>
  
