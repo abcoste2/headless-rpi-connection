@@ -1,6 +1,6 @@
 ---
 layout: howto
-title: Instructions
+title: Headless RPi Connection Instructions
 permalink: /
 
 has_toc: true
