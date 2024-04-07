@@ -218,9 +218,9 @@ Open PuTTY:
 
 Open the Terminal and use SSH to connect to your Raspberry Pi. (Replace `<RaspberryPi_IP>` with the IP address you noted down.):
 
-    ```sh
-    ssh pi@<RaspberryPi_IP>
-    ```
+```sh
+ssh pi@<RaspberryPi_IP>
+```
 
 {% endtab %}
 
