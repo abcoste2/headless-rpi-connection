@@ -1,7 +1,7 @@
 ---
 layout: howto
 title: Instructions
-permalink: /howto/
+permalink: /
 
 has_toc: true
 nav_order: 1
