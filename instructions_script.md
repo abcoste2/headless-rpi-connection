@@ -26,7 +26,7 @@ By following these steps, you’ll be able to connect to your Raspberry Pi headl
 
 **Walkthrough video (Windows 11):**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zan5VUIiTc4?si=9vJSQe0o1E1YR7QW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o2a6wr9Srbo?si=cfXeTQYpk4pfM4qc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## 1. Get the Raspberry Pi Imager:
