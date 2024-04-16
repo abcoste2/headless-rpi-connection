@@ -1,3 +1,8 @@
+.side-bar {
+    /* flushes sidebar left even on large screen */
+    width: fit-content;
+}
+
 .tab {
     display: flex;
     flex-wrap: wrap;
@@ -40,10 +45,6 @@
     display: none;
 }
 
-/* .main-content ul  {
-      padding-left: 0em;
-  } */
-
 .main-content ul:not(.tab, .tab-content, #markdown-toc, #markdown-toc ul) {
     padding-left: 2.5em;
 }
@@ -52,10 +53,6 @@ ul.tab-content,
 ul.tab {
     padding-left: 0em;
 }
-
-/* .tab-content {
-      padding: 0;
-  } */
 
 .tab-content>li {
     display: none;
