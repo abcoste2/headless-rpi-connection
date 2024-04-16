@@ -1,14 +1,13 @@
 ---
 layout: howto
 permalink: /
-
+title: Connection Instructions
 has_toc: true
 nav_order: 1
 
 ---
 
 # Setting Up a Raspberry Pi Headless (SSH) Connection
-
 {: .no_toc }
 
 By: Connor Robinson, Aidan Costello, Thomas Elpers, Abel Lu
