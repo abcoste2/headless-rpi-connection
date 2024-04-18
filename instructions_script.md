@@ -35,7 +35,7 @@ Setting up a Raspberry Pi headless (SSH) connection is essential for accessing t
 
     Choose the version suitable for your operating system (Windows, macOS, or Linux).
 
-## 2. Download the Correct OS for the Pi
+## 2. Configure OS Settings in Imager
 
 - [ ] Launch the Raspberry Pi Imager tool.
 
@@ -78,7 +78,7 @@ Setting up a Raspberry Pi headless (SSH) connection is essential for accessing t
 
 - [ ] Click the *Next* button to proceed.
 
-## 3. Configure Settings in the Imager
+## 3. Configure Connection Settings in the Imager
 
 **Before writing the OS image to the microSD card, we need to configure Wi-Fi and enable SSH:**
 
