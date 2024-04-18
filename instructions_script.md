@@ -12,7 +12,9 @@ nav_order: 1
 
 By: Connor Robinson, Aidan Costello, Thomas Elpers, Abel Lu
 
-By following these steps, you’ll be able to connect to your Raspberry Pi headless using SSH and Nmap. 🎩🍓
+**Why use a headless connection?**
+
+Setting up a Raspberry Pi headless (SSH) connection is essential for accessing the device remotely when lacking a monitor or spare keyboard. By configuring Wi-Fi and enabling SSH through the Raspberry Pi Imager tool, users can connect to their Pi's command line interface from any device on the same network. This approach streamlines the setup process, enabling users to run commands, install software, and manage files without direct physical access to the Pi. Additionally, leveraging tools like Nmap facilitates network scanning, allowing users to identify their Pi's IP address and establish a secure SSH connection. This method enhances accessibility and flexibility, making the Raspberry Pi an ideal choice for various projects and applications.
 
 <details open markdown="block">
   <summary>
